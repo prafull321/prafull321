@@ -35,6 +35,8 @@ A simple weather application that fetches real-time weather data using the OpenW
 📫 Let's Connect
 
 Email: prafullchauhan31@gmail.com
+
 💬 Fun Facts
+
 🎮 I’m a huge fan of video games and love to unwind by playing RPGs and strategy games.
 📚 I’m always on the lookout for new books, whether they’re about technology, design, or personal development.
